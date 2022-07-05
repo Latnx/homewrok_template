@@ -25,4 +25,4 @@
 
 ## 实验预期结果与实际结果
 
-![img](.\lib1\img.png)
+![img](/homework2/lib1/img.png)
