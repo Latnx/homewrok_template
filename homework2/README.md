@@ -24,4 +24,4 @@
 
 ## 实验预期结果与实际结果
 
-![img](.\lib\img.png)
+![img](/homework1/lib/img.png)
