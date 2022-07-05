@@ -29,4 +29,4 @@
 1. [test.py](./lib/test.py) 实现函数调用与图像绘制
 
 ## 实验预期结果与实际结果
-![img](.\\lib\\img.png)
+![img](/lib/img.png)
