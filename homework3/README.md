@@ -28,6 +28,6 @@
 
 ## 实验预期结果与实际结果
 
-![img](.\lib\img.png)
+![img](/homework3/lib/img.png)
 
-![img](.\lib\img_2.png)
+![img](/homework3/lib/img_2.png)
